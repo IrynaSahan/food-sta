@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "food-sta",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/IrynaSahan/food-sta",
+  "homepage": "https://irynasahan.github.io/food-sta/",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /food-sta/"
